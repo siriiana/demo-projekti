@@ -1,0 +1,4 @@
+html
+	head
+		body View1
+		h1=content-variable
