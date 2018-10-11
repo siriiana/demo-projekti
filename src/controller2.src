@@ -1,3 +1,2 @@
 var mongoose = require ('mongoose')
-var  Filmi= require ('../models/user');
-
+var Video = require ('../models/user');
